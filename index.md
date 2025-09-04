@@ -1,8 +1,8 @@
 # Ethan's First CS193 Homework
   ## Bulleted list of my favorite things about CS193
-    - Getting to learn 
-    - Meeting new people
-    - Grades are all homework (less stress)
+  - Getting to learn
+  - Meeting new people
+  - Grades are all homework (less stress)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
